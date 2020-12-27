@@ -1,6 +1,6 @@
 <template>
 	<div class="Field">
-		  <div>Card</div>
+		  <div>Card的</div>
 		  <van-card
   num="2"
   price="2.00"
